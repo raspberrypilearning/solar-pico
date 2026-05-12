@@ -1,14 +1,11 @@
-title: Project title in sentence case
+title: Solar Powered Raspberry Pi Pico
 hero_image: images/banner.png
-description: A short description of the project
+description: Power a Raspberry Pi Pico with solar energy
 listed: false
 pdf: false
 steps:
-  - title: What you will make
-  - title: Step title
+  - title: Solar powered Raspberry Pi Pico
     completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
-    completion:
+      - engaged
+      - internal
       - external
