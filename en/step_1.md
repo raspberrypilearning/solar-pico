@@ -7,7 +7,7 @@ You can power a Raspberry Pi Pico using a solar panel, a solar power management 
 | Item | Basic specs | Online source |
 |---|---|---|
 | Solar panel | 6 V, 10 W monocrystalline solar panel; 355 × 252 mm option listed. | [Sunstore](https://www.sunstore.co.uk/product/6v-10w-monocrystalline-solar-panel/) |
-| Solar power management module | Supports 6 V–24 V solar panel input; charges a 3.7 V rechargeable lithium battery; provides 5 V/1 A or 3.3 V/1 A regulated output; includes MPPT and protection circuits. | [Wavshare](https://www.waveshare.com/solar-power-manager.htm) |
+| Solar power management module | Supports 6 V–24 V solar panel input; charges a 3.7 V rechargeable lithium battery; provides 5 V/1 A or 3.3 V/1 A regulated output; includes MPPT and protection circuits. | [Waveshare](https://www.waveshare.com/solar-power-manager.htm) |
 | 14500 Li-ion cell | 14500 rechargeable Li-ion cell; 3.6 V nominal; 820 mAh. | [RS](https://uk.rs-online.com/web/p/speciality-size-rechargeable-batteries/1834300) |
 | USB-A to micro-USB cable | USB-A to micro-USB 2.0 cable. | [PiHut](https://thepihut.com/products/usb-to-micro-usb-cable-0-5m) |
 
